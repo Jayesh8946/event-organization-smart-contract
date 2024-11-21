@@ -1,0 +1,1 @@
+# event-organization-smart-contract
